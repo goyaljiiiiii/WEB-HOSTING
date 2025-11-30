@@ -1,6 +1,6 @@
 # 📖 How the Internet Actually Works
 
-Welcome to the most _chaotic good_ explanation of the Internet you'll ever read 😎  
+Welcome to the most _chaotic good_ explanation of the Internet you'll ever read 
 This is a fun, beginner-friendly guide to understanding how the internet _actually_ works – no boring lectures, just memes, magic, and Gandalf quotes 🧙‍♂️✨
 
 ---
@@ -48,28 +48,10 @@ Then this one’s for **you** 🫵💖
 
 ---
 
-## 🔗 Links
-
-- 📲 [Telegram](https://t.me/goyal_coder)
-- 🧑‍💻 [GitHub](https://github.com/goyal-coder)
-
----
-
 ## 🚀 How to Run This
 
 1. Clone or download this repo
 2. Open `index.html` in your browser
 3. Sit back and enjoy the ride 🛸
 
----
 
-## ✨ Special Thanks
-
-To the Internet itself, for delivering this README to you.  
-And to the fiber optic noodles working overtime under the ocean 🧵🌊
-
----
-
-## 💌 Made with love by
-
-**Nandini** – Flute Queen, Meme Lord, and Future Full Stack Dev 🎶💻
